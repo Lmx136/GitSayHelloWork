@@ -19,7 +19,7 @@ namespace GitSayHelloWork
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("欢迎来到我的git");
+            MessageBox.Show("欢迎来到我的git11111111");
         }
     }
 }
